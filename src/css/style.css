@@ -1,0 +1,51 @@
+.list{
+    margin: 40px;
+
+}
+
+.product-card{
+    float: left;
+    margin: 20px;
+}
+
+.product-card img{
+    width: 18rem;
+    height: 250px;
+}
+
+.product-card button{
+    margin-top: 10px;
+}
+
+.details{
+    margin: 20px;
+}
+
+.tabs{
+    margin-top: 40px;
+}
+
+.login-tab{
+    margin-top: 40px;
+    width: 600px;
+}
+
+.ft{
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color:white;
+}
+
+.fbox{
+    background-color: none;
+    display: inline-block;
+    margin: 40px;
+    
+}
+
+.fbox li{
+    text-decoration: none;
+}
